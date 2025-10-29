@@ -1,0 +1,15 @@
+{
+  "name": "strawberrycloud.iot.watermeter.api",
+  "version": "1.0.0",
+  "description": "This serves as the main API for logging, retrieving, and managing water meter data.",
+  "main": "build/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "@types/node": "^24.9.1",
+    "typescript": "^5.9.3"
+  },
+  "author": "",
+  "license": "ISC"
+}
